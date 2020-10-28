@@ -12,17 +12,7 @@ body {
   background-size: cover;
 }
 
-.portfolio-item {
-  margin-bottom: 30px;
-}
-
 .bg-dark{
   background-color: #15141a !important;
-}
-
-.about_info{
-  text-align: center;
-  margin-top: 80px;
-  margin-bottom: 80px;
 }
 

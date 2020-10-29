@@ -16,3 +16,18 @@ body {
   background-color: #15141a !important;
 }
 
+a
+{
+  color: #2f3540;
+}
+
+a:hover
+{
+  color: #15141a;
+}
+
+.img-fluid:hover
+{
+  transform: scale(1.1);
+}
+
